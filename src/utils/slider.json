@@ -1,0 +1,39 @@
+[
+    {
+      "name": "Saci Court",
+      "price": "147,043,000",
+      "detail": "Jahi Garden City Street, Jahi. Abuja, FCT, Nigeria",
+      "image": "./r5.png"
+    },
+    {
+      "name": "Norren Court",
+      "price": "166,353,000",
+      "detail": "Street 72 Kofo Abayomi Street Apapa, Lagos, Lagos, Nigeria",
+      "image": "./r2.png"
+    },
+    {
+      "name": "Asante Sana",
+      "price": "125,853,000",
+      "detail": "Street 14/14 Junction, Kubwa, Fct, Abuja, Nigeria",
+      "image": "./r3.png"
+    },
+    {
+      "name": "Abba Court",
+      "price": "157,043,000",
+      "detail": "Street 43, Ajose Adeogun Street, Utako, Fct, Abuja, Nigeria",
+      "image": "./r1.png"
+    },
+    {
+      "name": "Pelican Court",
+      "price": "186,353,000",
+      "detail": "Sunmart Filling Station, Giri, Abuja Municipal, Abuja, Nigeria",
+      "image": "./r5.png"
+    },
+    {
+      "name": "Habib Court",
+      "price": "175,853,000",
+      "detail": "Obasanjo Block, Garki Ultra Modern Market, Garki, Fct, Abuja, Nigeria",
+      "image": "./r3.png"
+    }
+  ]
+  
